@@ -6,33 +6,35 @@ Interview Question asked
 ### Basic Excel Questions:
 
 1. **Q: What is the shortcut to insert a new row in Excel?**
-     **A:** Press `Ctrl + Shift + "+"`.
+   
+         **A:** Press `Ctrl + Shift + "+"`.
 
-2. **Q: How do you create a formula in Excel?**
-     **A:** Start with an equal sign (`=`), followed by the formula or function you want to use, e.g., `=A1 + B1`.
+3. **Q: How do you create a formula in Excel?**
+   
+         **A:** Start with an equal sign (`=`), followed by the formula or function you want to use, e.g., `=A1 + B1`.
 
-3. **Q: How can you quickly sum a range of cells?**
+5. **Q: How can you quickly sum a range of cells?**
      **A:** Use the `SUM` function, e.g., `=SUM(A1:A10)`.
 
-4. **Q: What is the use of the `IF` function in Excel?**
+6. **Q: What is the use of the `IF` function in Excel?**
      **A:** The `IF` function checks a condition and returns one value if true and another if false. Example: `=IF(A1 > 10, "Yes", "No")`.
 
-5. **Q: How can you freeze the top row in Excel?**
+7. **Q: How can you freeze the top row in Excel?**
      **A:** Go to the `View` tab, and click on `Freeze Panes`, then select `Freeze Top Row`.
 
-6. **Q: What is the shortcut for copying the selected cells?**
+8. **Q: What is the shortcut for copying the selected cells?**
      **A:** Press `Ctrl + C`.
 
-7. **Q: How do you apply a filter to a column?**
+9. **Q: How do you apply a filter to a column?**
      **A:** Select the column and then click on the `Data` tab, then `Filter`.
 
-8. **Q: How can you concatenate two strings in Excel?**
+10. **Q: How can you concatenate two strings in Excel?**
      **A:** Use the `&` operator or the `CONCATENATE` function. Example: `=A1 & " " & B1` or `=CONCATENATE(A1, " ", B1)`.
 
-9. **Q: What is the `VLOOKUP` function used for?**
+11. **Q: What is the `VLOOKUP` function used for?**
      **A:** `VLOOKUP` searches for a value in the first column of a table and returns a value in the same row from another column. Example: `=VLOOKUP(A1, B:C, 2, FALSE)`.
 
-10. **Q: How can you remove duplicates from a dataset?**
+12. **Q: How can you remove duplicates from a dataset?**
       **A:** Go to the `Data` tab and click `Remove Duplicates`.
 
 ### Intermediate Excel Questions:
@@ -97,30 +99,31 @@ Interview Question asked
       **A:** `Power Query` is used for data transformation and automation, allowing you to import, clean, and reshape data from various sources.
 
 30. **Q: How do you use `Solver` in Excel?**
-      **A:** `Solver` is an add-in used to find an optimal value (maximum or minimum) for a formula in one cell, subject to constraints. Activate it via `Data` > `Solver`.
+    
+        **A:** `Solver` is an add-in used to find an optimal value (maximum or minimum) for a formula in one cell, subject to constraints. Activate it via `Data` > `Solver`.
 
 
 What is conditional formatting, and how do you apply it?
 
-Conditional Formatting in Excel is a game-changer for anyone dealing with large datasets. This feature allows you to automatically apply formatting, such as colors and icons, to cells that meet specific criteria. With conditional formatting Excel formulas, you can customize your data presentation and highlight key information effortlessly. Whether you need to create a heatmap, highlight duplicates, or show trends, conditional formatting in Excel with a formula makes it simple and effective. Moreover, you can even apply conditional formatting in Excel based on other cells, enabling dynamic and interactive data visualization.
+    Conditional Formatting in Excel is a game-changer for anyone dealing with large datasets. This feature allows you to automatically apply formatting, such as colors and icons, to cells that meet specific criteria. With conditional formatting Excel formulas, you can customize your data presentation and highlight key information effortlessly. Whether you need to create a heatmap, highlight duplicates, or show trends, conditional formatting in Excel with a formula makes it simple and effective. Moreover, you can even apply conditional formatting in Excel based on other cells, enabling dynamic and interactive data visualization.
 
 ![image](https://github.com/user-attachments/assets/88377b30-0bdd-4535-95d9-c2a934c1004d)
 
 How do you freeze panes in Excel?
 
-Go to the “View” tab, select “Freeze Panes,” and choose an option.
+    Go to the “View” tab, select “Freeze Panes,” and choose an option.
 
 ![image](https://github.com/user-attachments/assets/0dc2b9f8-e67d-442f-b02f-98b2aabb17bd)
 
 How can you remove duplicates in Excel?
 
-Select the range, go to “Data” > “Remove Duplicates.”
+    Select the range, go to “Data” > “Remove Duplicates.”
 
 ![image](https://github.com/user-attachments/assets/5a2272c0-7b0c-4f4a-a11b-e70140d850af)
 
 What is the difference between CONCATENATE and CONCAT functions?
 
-CONCAT is a new function that replaces CONCATENATE, providing additional features.
+    CONCAT is a new function that replaces CONCATENATE, providing additional features.
 
 Explain the PivotTable function.
 
