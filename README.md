@@ -98,3 +98,126 @@ Interview Question asked
 
 30. **Q: How do you use `Solver` in Excel?**
       **A:** `Solver` is an add-in used to find an optimal value (maximum or minimum) for a formula in one cell, subject to constraints. Activate it via `Data` > `Solver`.
+
+
+What is conditional formatting, and how do you apply it?
+
+Conditional Formatting in Excel is a game-changer for anyone dealing with large datasets. This feature allows you to automatically apply formatting, such as colors and icons, to cells that meet specific criteria. With conditional formatting Excel formulas, you can customize your data presentation and highlight key information effortlessly. Whether you need to create a heatmap, highlight duplicates, or show trends, conditional formatting in Excel with a formula makes it simple and effective. Moreover, you can even apply conditional formatting in Excel based on other cells, enabling dynamic and interactive data visualization.
+
+![image](https://github.com/user-attachments/assets/88377b30-0bdd-4535-95d9-c2a934c1004d)
+
+How do you freeze panes in Excel?
+
+Go to the “View” tab, select “Freeze Panes,” and choose an option.
+
+![image](https://github.com/user-attachments/assets/0dc2b9f8-e67d-442f-b02f-98b2aabb17bd)
+
+How can you remove duplicates in Excel?
+
+Select the range, go to “Data” > “Remove Duplicates.”
+
+![image](https://github.com/user-attachments/assets/5a2272c0-7b0c-4f4a-a11b-e70140d850af)
+
+What is the difference between CONCATENATE and CONCAT functions?
+
+CONCAT is a new function that replaces CONCATENATE, providing additional features.
+
+Explain the PivotTable function.
+
+Some of the functions of PivotTable are:
+
+    Summarizes and analyzes data from a range into a concise, tabular format.
+    Aggregates data based on arithmetic operations.
+    Allows filtering and sorting of data.
+    Enable deep data analysis
+
+How do you transfer data in Excel?
+
+    Copy the data, right-click the destination cell, and select “Transpose” under “Paste Special.“
+
+![image](https://github.com/user-attachments/assets/f7f803d1-3d3a-4b10-85ab-fe02525d9aa1)
+
+How do you find and replace data in Excel?
+
+    Press Ctrl + H to open the Find and Replace dialog box.
+
+What is the IF function, and how is it used?
+
+    It performs a logical test and returns one value if true and another if false.
+
+How do you create a drop-down list in Excel?
+
+    Use the Data Validation feature under the “Data” tab.
+![image](https://github.com/user-attachments/assets/7044dadf-149c-47a0-994f-76ec896c0d38)
+
+Explain the difference between COUNT, COUNTA, COUNTIF, and COUNTIFS functions.
+
+    COUNT counts the number of cells with numbers.
+    COUNTA counts non-empty cells.
+    COUNTIF counts cells based on a single criterion.
+    COUNTIFS does the same with multiple criteria.
+
+
+Explain the difference between a relative and an absolute reference in a formula.
+
+![image](https://github.com/user-attachments/assets/e889ede3-5549-4d29-acf2-c49aed9d5997)
+
+
+ How do you use the IFERROR function?
+ 
+    It returns a custom result if a formula generates an error; otherwise, it returns the result of the formula.
+
+How do you use the SUMIF and SUMIFS functions?
+
+    SUMIF adds values based on a single criterion. SUMIFS does the same with multiple criteria.
+
+How do you create a named range in Excel?
+
+    Select the range, go to the “Formulas” tab, and click “Define Name.”
+![image](https://github.com/user-attachments/assets/24baaf15-858d-4a18-b165-5648e7f1233a)
+
+Explain the purpose of the VBA (Visual Basic for Applications) in Excel.
+
+    The main purpose of VBA is that it allows automation of tasks and the creation of custom functions using the Visual Basic programming language.
+
+How do you create a macro in Excel?
+
+    Go to the “View” tab, click “Macros,” select “Record Macro,” perform actions and stop recording.
+![image](https://github.com/user-attachments/assets/451206d3-50d8-414f-a625-4063475193d3)
+
+What is the purpose of the PMT function in Excel?
+
+    The PMT function calculates the payment for a loan based on a constant interest rate and periodic payments.
+
+How do you create a data table in Excel?
+
+    Use the “What-If Analysis” tool in the “Forecast” group under the “Data” tab.
+![image](https://github.com/user-attachments/assets/f64b36e2-e4c5-4d8b-8b98-0fb0cc0381b2)
+
+Explain the difference between the terms ‘filter’ and ‘sort’ in Excel.
+
+    Sorting arranges data in a specified order
+    Filtering displays only the data that meets specific criteria.
+
+How do you use the AVERAGEIF and AVERAGEIFS functions?
+
+    AVERAGEIF calculates the average based on a single condition.
+    AVERAGEIFS does the same with multiple criteria.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
