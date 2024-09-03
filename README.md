@@ -188,6 +188,15 @@ How do you create a macro in Excel?
     Go to the “View” tab, click “Macros,” select “Record Macro,” perform actions and stop recording.
 ![image](https://github.com/user-attachments/assets/451206d3-50d8-414f-a625-4063475193d3)
 
+or
+
+![image](https://github.com/user-attachments/assets/076338f6-e43e-4bc6-a5b7-60b8dcdb5550)
+![image](https://github.com/user-attachments/assets/8b660baa-ad5f-49b1-b3e9-bc0e60201081)
+![image](https://github.com/user-attachments/assets/4310a6b6-4b07-45d5-8d2e-62617cf3d794)
+
+
+
+
 What is the purpose of the PMT function in Excel?
 
     The PMT function calculates the payment for a loan based on a constant interest rate and periodic payments.
