@@ -218,6 +218,87 @@ How do you use the AVERAGEIF and AVERAGEIFS functions?
 
 
 
+### 1. **SUM**
+   - **Purpose**: Adds a range of numbers.
+   - **Formula**: `=SUM(A1:A10)`
+  
+### 2. **AVERAGE**
+   - **Purpose**: Calculates the average of a range.
+   - **Formula**: `=AVERAGE(A1:A10)`
+
+### 3. **COUNT**
+   - **Purpose**: Counts the number of cells that contain numbers.
+   - **Formula**: `=COUNT(A1:A10)`
+
+### 4. **COUNTA**
+   - **Purpose**: Counts the number of non-empty cells.
+   - **Formula**: `=COUNTA(A1:A10)`
+
+### 5. **IF**
+   - **Purpose**: Performs a logical test and returns a value based on the test result.
+   - **Formula**: `=IF(A1>10, "Yes", "No")`
+
+### 6. **IFERROR**
+   - **Purpose**: Returns a value if a formula results in an error.
+   - **Formula**: `=IFERROR(A1/B1, "Error")`
+
+### 7. **VLOOKUP**
+   - **Purpose**: Searches for a value in the first column of a table and returns a value in the same row from a specified column.
+   - **Formula**: `=VLOOKUP(A1, B1:C10, 2, FALSE)`
+
+### 8. **HLOOKUP**
+   - **Purpose**: Searches for a value in the first row of a table and returns a value in the same column from a specified row.
+   - **Formula**: `=HLOOKUP(A1, B1:C10, 2, FALSE)`
+
+### 9. **INDEX**
+   - **Purpose**: Returns the value of a cell in a specified row and column within a range.
+   - **Formula**: `=INDEX(A1:C10, 3, 2)`
+
+### 10. **MATCH**
+   - **Purpose**: Returns the relative position of an item in a range.
+   - **Formula**: `=MATCH(A1, B1:B10, 0)`
+
+### 11. **CONCATENATE** / **TEXTJOIN** (in newer Excel versions)
+   - **Purpose**: Joins several text items into one string.
+   - **Formula**: `=CONCATENATE(A1, " ", B1)` or `=TEXTJOIN(" ", TRUE, A1, B1)`
+
+### 12. **LEN**
+   - **Purpose**: Returns the number of characters in a string.
+   - **Formula**: `=LEN(A1)`
+
+### 13. **LEFT**
+   - **Purpose**: Extracts a specified number of characters from the beginning of a string.
+   - **Formula**: `=LEFT(A1, 5)`
+
+### 14. **RIGHT**
+   - **Purpose**: Extracts a specified number of characters from the end of a string.
+   - **Formula**: `=RIGHT(A1, 5)`
+
+### 15. **MID**
+   - **Purpose**: Extracts a substring from a string, starting at a specified position.
+   - **Formula**: `=MID(A1, 2, 3)`
+
+### 16. **SUMIF**
+   - **Purpose**: Adds the cells that meet a specified criterion.
+   - **Formula**: `=SUMIF(A1:A10, ">10", B1:B10)`
+
+### 17. **COUNTIF**
+   - **Purpose**: Counts the number of cells that meet a specified criterion.
+   - **Formula**: `=COUNTIF(A1:A10, ">10")`
+
+### 18. **TRIM**
+   - **Purpose**: Removes all extra spaces from text except for single spaces between words.
+   - **Formula**: `=TRIM(A1)`
+
+### 19. **NOW**
+   - **Purpose**: Returns the current date and time.
+   - **Formula**: `=NOW()`
+
+### 20. **TODAY**
+   - **Purpose**: Returns the current date.
+   - **Formula**: `=TODAY()`
+
+
 
 
 
